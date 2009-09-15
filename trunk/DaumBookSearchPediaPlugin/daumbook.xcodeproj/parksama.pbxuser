@@ -1,0 +1,378 @@
+// !$*UTF8*$!
+{
+	0503D6FC066E0A370087886C /* searchicon.icns */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{19, 0}, {1072, 778}}";
+		};
+	};
+	052B06080C5373A500BBC1E0 /* DaumBookControllerForPlugins.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {817, 572}}";
+			sepNavSelRange = "{672, 13}";
+			sepNavVisRange = "{175, 1042}";
+			sepNavWindowFrame = "{{208, 0}, {1072, 778}}";
+		};
+	};
+	05BA0F88065F637C0064BD4D /* DaumBook.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {789, 381}}";
+			sepNavSelRange = "{184, 0}";
+			sepNavVisRange = "{0, 470}";
+			sepNavWindowFrame = "{{19, 0}, {1072, 778}}";
+		};
+	};
+	05BA0F89065F637C0064BD4D /* DaumBook.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1496, 4395}}";
+			sepNavSelRange = "{684, 0}";
+			sepNavVisRange = "{299, 1677}";
+			sepNavWindowFrame = "{{4, 0}, {1276, 778}}";
+		};
+	};
+	05D646CA0B1DE3BC00CE8FFA /* Constants.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {789, 2054}}";
+			sepNavSelRange = "{4316, 0}";
+			sepNavVisRange = "{3953, 1059}";
+			sepNavWindowFrame = "{{19, 0}, {1072, 778}}";
+		};
+	};
+	089C1669FE841209C02AAC07 /* Project object */ = {
+		activeArchitecturePreference = i386;
+		activeBuildConfigurationName = Release;
+		activeSDKPreference = macosx10.5;
+		activeTarget = 8D5B49AC048680CD000E48DA /* daumbook */;
+		breakpoints = (
+			6C59087E1058BA860002BF1A /* DaumBook.m:9 */,
+		);
+		codeSenseManager = 6C71F40C1057DD66003B57F6 /* Code sense */;
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					499,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					611,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXSymbolsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXSymbolsDataSource_SymbolNameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					16,
+					200,
+					50,
+					550.66845703125,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXSymbolsDataSource_SymbolTypeIconID,
+					PBXSymbolsDataSource_SymbolNameID,
+					PBXSymbolsDataSource_SymbolTypeID,
+					PBXSymbolsDataSource_ReferenceNameID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.XCSCMDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					586,
+					20,
+					48.7802734375,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_SCM_ColumnID,
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					571,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 274692232;
+			PBXWorkspaceStateSaveDate = 274692232;
+		};
+		perUserProjectItems = {
+			6C59060B1057E62B0002BF1A = 6C59060B1057E62B0002BF1A /* PBXTextBookmark */;
+			6C59065C1057E7C40002BF1A = 6C59065C1057E7C40002BF1A /* PBXTextBookmark */;
+			6C6074411059EEDF00D877F6 = 6C6074411059EEDF00D877F6 /* PBXTextBookmark */;
+			6C6074791059F27200D877F6 = 6C6074791059F27200D877F6 /* PBXTextBookmark */;
+			6C681749105F78CF007F62A5 /* PlistBookmark */ = 6C681749105F78CF007F62A5 /* PlistBookmark */;
+			6C68174A105F78CF007F62A5 /* PBXTextBookmark */ = 6C68174A105F78CF007F62A5 /* PBXTextBookmark */;
+			6C68174D105F78CF007F62A5 /* PBXTextBookmark */ = 6C68174D105F78CF007F62A5 /* PBXTextBookmark */;
+			6C6D9452105A379E00A07E9A = 6C6D9452105A379E00A07E9A /* PlistBookmark */;
+			6C82F5DC105A284F00F58E1F = 6C82F5DC105A284F00F58E1F /* PBXTextBookmark */;
+			6C82F5EA105A292D00F58E1F = 6C82F5EA105A292D00F58E1F /* PBXTextBookmark */;
+			6C82F647105A33E000F58E1F = 6C82F647105A33E000F58E1F /* PBXTextBookmark */;
+			6CB32B64105B63E5009DC091 = 6CB32B64105B63E5009DC091 /* PBXBookmark */;
+			6CB32B70105B6F39009DC091 = 6CB32B70105B6F39009DC091 /* PlistBookmark */;
+			6CB32B71105B6F39009DC091 = 6CB32B71105B6F39009DC091 /* PBXTextBookmark */;
+			6CE09FB9105A3667000E2115 = 6CE09FB9105A3667000E2115 /* PBXBookmark */;
+		};
+		sourceControlManager = 6C71F40B1057DD66003B57F6 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB77B6FE84183AC02AAC07 /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {789, 397}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 145}";
+			sepNavWindowFrame = "{{19, 0}, {1072, 778}}";
+		};
+	};
+	32DBCF630370AF2F00C91783 /* PluginExample_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {789, 408}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 190}";
+			sepNavWindowFrame = "{{19, 0}, {1072, 778}}";
+		};
+	};
+	6C59060B1057E62B0002BF1A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32DBCF630370AF2F00C91783 /* PluginExample_Prefix.pch */;
+		name = "PluginExample_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 190;
+		vrLoc = 0;
+	};
+	6C5906271057E7390002BF1A /* Cocoa.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = Cocoa.h;
+		path = /System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h;
+		sourceTree = "<absolute>";
+	};
+	6C59065C1057E7C40002BF1A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6C5906271057E7390002BF1A /* Cocoa.h */;
+		name = "Cocoa.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 485;
+		vrLoc = 0;
+	};
+	6C59087E1058BA860002BF1A /* DaumBook.m:9 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 05BA0F89065F637C0064BD4D /* DaumBook.m */;
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 9;
+		location = DaumBook;
+		modificationTime = 274328286.9544181;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	6C6074411059EEDF00D877F6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB77B6FE84183AC02AAC07 /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 145;
+		vrLoc = 0;
+	};
+	6C6074791059F27200D877F6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 052B06080C5373A500BBC1E0 /* DaumBookControllerForPlugins.h */;
+		name = "DaumBookControllerForPlugins.h: 27";
+		rLen = 13;
+		rLoc = 672;
+		rType = 0;
+		vrLen = 1042;
+		vrLoc = 175;
+	};
+	6C681749105F78CF007F62A5 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D5B49B7048680CD000E48DA /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			NSHumanReadableCopyright,
+		);
+		name = /Users/parksama/Downloads/DaumBookSearchPediaPlugin/Info.plist;
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	6C68174A105F78CF007F62A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 05BA0F89065F637C0064BD4D /* DaumBook.m */;
+		name = "DaumBook.m: 22";
+		rLen = 0;
+		rLoc = 447;
+		rType = 0;
+		vrLen = 1011;
+		vrLoc = 4636;
+	};
+	6C68174D105F78CF007F62A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 05BA0F89065F637C0064BD4D /* DaumBook.m */;
+		name = "DaumBook.m: 27";
+		rLen = 0;
+		rLoc = 684;
+		rType = 0;
+		vrLen = 1677;
+		vrLoc = 299;
+	};
+	6C6D9452105A379E00A07E9A /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D5B49B7048680CD000E48DA /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			PluginMenuName,
+		);
+		name = /Users/parksama/Downloads/DaumBookSearchPediaPlugin/Info.plist;
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	6C71F40B1057DD66003B57F6 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = DaumBookPlugin;
+			};
+		};
+	};
+	6C71F40C1057DD66003B57F6 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	6C82F5DC105A284F00F58E1F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 05D646CA0B1DE3BC00CE8FFA /* Constants.h */;
+		name = "Constants.h: 134";
+		rLen = 0;
+		rLoc = 4316;
+		rType = 0;
+		vrLen = 1059;
+		vrLoc = 3953;
+	};
+	6C82F5EA105A292D00F58E1F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 05BA0F88065F637C0064BD4D /* DaumBook.h */;
+		name = "DaumBook.h: 11";
+		rLen = 0;
+		rLoc = 184;
+		rType = 0;
+		vrLen = 470;
+		vrLoc = 0;
+	};
+	6C82F647105A33E000F58E1F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 05BA0F89065F637C0064BD4D /* DaumBook.m */;
+		name = "DaumBook.m: 22";
+		rLen = 0;
+		rLoc = 447;
+		rType = 0;
+		vrLen = 1151;
+		vrLoc = 62;
+	};
+	6CB32B64105B63E5009DC091 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 05BA0F89065F637C0064BD4D /* DaumBook.m */;
+	};
+	6CB32B70105B6F39009DC091 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D5B49B7048680CD000E48DA /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			NSPrincipalClass,
+		);
+		name = /Users/parksama/Downloads/DaumBookSearchPediaPlugin/Info.plist;
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	6CB32B71105B6F39009DC091 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 05BA0F89065F637C0064BD4D /* DaumBook.m */;
+		name = "DaumBook.m: 27";
+		rLen = 0;
+		rLoc = 684;
+		rType = 0;
+		vrLen = 1881;
+		vrLoc = 299;
+	};
+	6CE09FB9105A3667000E2115 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 0503D6FC066E0A370087886C /* searchicon.icns */;
+	};
+	8D5B49AC048680CD000E48DA /* daumbook */ = {
+		activeExec = 0;
+	};
+	8D5B49B7048680CD000E48DA /* Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{208, 0}, {1072, 778}}";
+		};
+	};
+}
