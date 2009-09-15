@@ -1,0 +1,275 @@
+[20090907 14:33:49] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module ''.
+[20090907 14:33:49] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:33:49] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:33:51] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module '/report'.
+[20090907 14:33:51] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:33:51] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:33:51] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module '/am/buy'.
+[20090907 14:33:51] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:33:51] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:33:51] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module '/keytools'.
+[20090907 14:33:51] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:33:51] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:33:51] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module '/am/mgr'.
+[20090907 14:33:51] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:33:51] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:33:52] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module '/am/keytool'.
+[20090907 14:33:52] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:33:52] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:33:52] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module '/common'.
+[20090907 14:33:52] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:33:52] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:33:52] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module '/am/top'.
+[20090907 14:33:52] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:33:52] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:33:52] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module '/am/report'.
+[20090907 14:33:52] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:33:52] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:33:52] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module '/mgr'.
+[20090907 14:33:52] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:33:52] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:33:53] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module '/budget'.
+[20090907 14:33:53] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:33:53] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:33:53] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module '/bid'.
+[20090907 14:33:53] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:33:53] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:33:58] [INFO ] org.apache.struts.tiles.TilesRequestProcessor.initDefinitionsMapping(TilesRequestProcessor.java:105) - Tiles definition factory found for request processor ''.
+[20090907 14:33:58] [INFO ] net.daum.clix.clix.base.action.BaseRequestProcessor.initMenuConfig(BaseRequestProcessor.java:67) - menu configurations found for request processor '
+[20090907 14:35:04] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module ''.
+[20090907 14:35:04] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:35:04] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:35:04] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module '/report'.
+[20090907 14:35:04] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:35:04] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:35:04] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module '/am/buy'.
+[20090907 14:35:04] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:35:04] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:35:04] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module '/keytools'.
+[20090907 14:35:04] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:35:04] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:35:04] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module '/am/mgr'.
+[20090907 14:35:04] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:35:04] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:35:04] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module '/am/keytool'.
+[20090907 14:35:04] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:35:04] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:35:05] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module '/common'.
+[20090907 14:35:05] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:35:05] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:35:05] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module '/am/top'.
+[20090907 14:35:05] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:35:05] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:35:05] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module '/am/report'.
+[20090907 14:35:05] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:35:05] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:35:05] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module '/mgr'.
+[20090907 14:35:05] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:35:05] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:35:05] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module '/budget'.
+[20090907 14:35:05] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:35:05] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:35:05] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module '/bid'.
+[20090907 14:35:05] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:35:05] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:35:09] [INFO ] org.apache.struts.tiles.TilesRequestProcessor.initDefinitionsMapping(TilesRequestProcessor.java:105) - Tiles definition factory found for request processor ''.
+[20090907 14:35:09] [INFO ] net.daum.clix.clix.base.action.BaseRequestProcessor.initMenuConfig(BaseRequestProcessor.java:67) - menu configurations found for request processor '
+[20090907 14:35:27] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module ''.
+[20090907 14:35:27] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:35:27] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:35:27] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module '/report'.
+[20090907 14:35:27] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:35:27] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:35:28] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module '/am/buy'.
+[20090907 14:35:28] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:35:28] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:35:28] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module '/keytools'.
+[20090907 14:35:28] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:35:28] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:35:28] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module '/am/mgr'.
+[20090907 14:35:28] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:35:28] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:35:28] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module '/am/keytool'.
+[20090907 14:35:28] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:35:28] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:35:28] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module '/common'.
+[20090907 14:35:28] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:35:28] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:35:28] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module '/am/top'.
+[20090907 14:35:28] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:35:28] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:35:28] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module '/am/report'.
+[20090907 14:35:28] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:35:28] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:35:28] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module '/mgr'.
+[20090907 14:35:28] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:35:28] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:35:28] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module '/budget'.
+[20090907 14:35:28] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:35:28] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:35:29] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module '/bid'.
+[20090907 14:35:29] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:35:29] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:35:30] [INFO ] org.apache.struts.tiles.TilesRequestProcessor.initDefinitionsMapping(TilesRequestProcessor.java:105) - Tiles definition factory found for request processor ''.
+[20090907 14:35:30] [INFO ] net.daum.clix.clix.base.action.BaseRequestProcessor.initMenuConfig(BaseRequestProcessor.java:67) - menu configurations found for request processor '
+[20090907 14:36:31] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module ''.
+[20090907 14:36:31] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:36:31] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:36:31] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module '/report'.
+[20090907 14:36:31] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:36:31] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:36:31] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module '/am/buy'.
+[20090907 14:36:31] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:36:31] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:36:31] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module '/keytools'.
+[20090907 14:36:31] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:36:31] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:36:31] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module '/am/mgr'.
+[20090907 14:36:31] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:36:31] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:36:31] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module '/am/keytool'.
+[20090907 14:36:31] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:36:31] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:36:31] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module '/common'.
+[20090907 14:36:31] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:36:31] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:36:31] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module '/am/top'.
+[20090907 14:36:31] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:36:31] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:36:31] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module '/am/report'.
+[20090907 14:36:31] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:36:31] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:36:31] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module '/mgr'.
+[20090907 14:36:31] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:36:31] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:36:32] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module '/budget'.
+[20090907 14:36:32] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:36:32] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:36:32] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module '/bid'.
+[20090907 14:36:32] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:36:32] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:40:47] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module ''.
+[20090907 14:40:47] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:40:47] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:40:47] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module '/report'.
+[20090907 14:40:47] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:40:47] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:40:47] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module '/am/buy'.
+[20090907 14:40:47] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:40:47] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:40:48] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module '/keytools'.
+[20090907 14:40:48] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:40:48] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:40:48] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module '/am/mgr'.
+[20090907 14:40:48] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:40:48] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:40:48] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module '/am/keytool'.
+[20090907 14:40:48] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:40:48] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:40:48] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module '/common'.
+[20090907 14:40:48] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:40:48] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:40:48] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module '/am/top'.
+[20090907 14:40:48] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:40:48] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:40:48] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module '/am/report'.
+[20090907 14:40:48] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:40:48] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:40:48] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module '/mgr'.
+[20090907 14:40:48] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:40:48] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:40:48] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module '/budget'.
+[20090907 14:40:48] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:40:48] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:40:49] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module '/bid'.
+[20090907 14:40:49] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:40:49] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:40:51] [INFO ] org.apache.struts.tiles.TilesRequestProcessor.initDefinitionsMapping(TilesRequestProcessor.java:105) - Tiles definition factory found for request processor ''.
+[20090907 14:40:51] [INFO ] net.daum.clix.clix.base.action.BaseRequestProcessor.initMenuConfig(BaseRequestProcessor.java:67) - menu configurations found for request processor '
+[20090907 14:41:23] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module ''.
+[20090907 14:41:23] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:41:23] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:41:23] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module '/report'.
+[20090907 14:41:23] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:41:23] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:41:23] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module '/am/buy'.
+[20090907 14:41:23] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:41:23] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:41:24] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module '/keytools'.
+[20090907 14:41:24] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:41:24] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:41:24] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module '/am/mgr'.
+[20090907 14:41:24] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:41:24] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:41:24] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module '/am/keytool'.
+[20090907 14:41:24] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:41:24] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:41:24] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module '/common'.
+[20090907 14:41:24] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:41:24] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:41:24] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module '/am/top'.
+[20090907 14:41:24] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:41:24] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:41:25] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module '/am/report'.
+[20090907 14:41:25] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:41:25] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:41:25] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module '/mgr'.
+[20090907 14:41:25] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:41:25] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:41:25] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module '/budget'.
+[20090907 14:41:25] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:41:25] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:41:25] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module '/bid'.
+[20090907 14:41:25] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:41:25] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:41:28] [INFO ] org.apache.struts.tiles.TilesRequestProcessor.initDefinitionsMapping(TilesRequestProcessor.java:105) - Tiles definition factory found for request processor ''.
+[20090907 14:41:28] [INFO ] net.daum.clix.clix.base.action.BaseRequestProcessor.initMenuConfig(BaseRequestProcessor.java:67) - menu configurations found for request processor '
+[20090907 14:41:57] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module ''.
+[20090907 14:41:57] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:41:57] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:41:58] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module '/report'.
+[20090907 14:41:58] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:41:58] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:41:58] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module '/am/buy'.
+[20090907 14:41:58] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:41:58] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:46:26] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module ''.
+[20090907 14:46:26] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:46:26] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:46:26] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module '/report'.
+[20090907 14:46:26] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:46:26] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:46:26] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module '/am/buy'.
+[20090907 14:46:26] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:46:26] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:46:26] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module '/keytools'.
+[20090907 14:46:26] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:46:26] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:46:27] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module '/am/mgr'.
+[20090907 14:46:27] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:46:27] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:46:27] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module '/am/keytool'.
+[20090907 14:46:27] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:46:27] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:46:27] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module '/common'.
+[20090907 14:46:27] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:46:27] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:46:27] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module '/am/top'.
+[20090907 14:46:27] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:46:27] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:46:27] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module '/am/report'.
+[20090907 14:46:27] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:46:27] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:46:27] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module '/mgr'.
+[20090907 14:46:27] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:46:27] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:46:28] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module '/budget'.
+[20090907 14:46:28] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:46:28] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:46:28] [INFO ] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory(TilesPlugin.java:238) - Tiles definition factory loaded for module '/bid'.
+[20090907 14:46:28] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.rules/validator.rules.xml'
+[20090907 14:46:28] [INFO ] org.apache.struts.validator.ValidatorPlugIn.initResources(ValidatorPlugIn.java:213) - Loading validation rules file from '/WEB-INF/valid.config/validation.xml'
+[20090907 14:46:34] [INFO ] org.apache.struts.tiles.TilesRequestProcessor.initDefinitionsMapping(TilesRequestProcessor.java:105) - Tiles definition factory found for request processor ''.
+[20090907 14:46:34] [INFO ] net.daum.clix.clix.base.action.BaseRequestProcessor.initMenuConfig(BaseRequestProcessor.java:67) - menu configurations found for request processor '
+[20090907 14:46:44] [INFO ] org.apache.struts.tiles.TilesRequestProcessor.initDefinitionsMapping(TilesRequestProcessor.java:105) - Tiles definition factory found for request processor '/mgr'.
+[20090907 14:46:44] [INFO ] net.daum.clix.clix.base.action.BaseRequestProcessor.initMenuConfig(BaseRequestProcessor.java:67) - menu configurations found for request processor '
