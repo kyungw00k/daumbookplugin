@@ -32,7 +32,7 @@
 	[searchString replaceOccurrencesOfString:@" " withString:@"+" options:NSLiteralSearch range:NSMakeRange(0, [searchString length])];
 
 	NSString *encodedString = [searchString stringByAddingPercentEscapesUsingEncoding:NSUTF8StringEncoding];
-	queryString = [[NSMutableString alloc] initWithFormat:@"http://apis.daum.net/search/book?q=%@&result=20&apikey=eb61e385f3a9ae51c55f580d597c17203326ad13",encodedString ];
+	queryString = [[NSMutableString alloc] initWithFormat:@"http://apis.daum.net/search/book?q=%@&result=20&apikey=DAUM_SEARCH_DEMO_APIKEY",encodedString ];
 
 	[self downloadWebPage:queryString];
 }
