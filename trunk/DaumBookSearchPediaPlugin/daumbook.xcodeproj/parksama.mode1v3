@@ -229,6 +229,8 @@
 			<key>Layout</key>
 			<array>
 				<dict>
+					<key>BecomeActive</key>
+					<true/>
 					<key>ContentConfiguration</key>
 					<dict>
 						<key>PBXBottomSmartGroupGIDs</key>
@@ -253,7 +255,7 @@
 							<key>PBXSmartGroupTreeModuleColumnWidthsKey</key>
 							<array>
 								<real>22</real>
-								<real>382</real>
+								<real>239</real>
 							</array>
 							<key>PBXSmartGroupTreeModuleColumnsKey_v4</key>
 							<array>
@@ -266,6 +268,11 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateExpansionKey</key>
 							<array>
 								<string>089C166AFE841209C02AAC07</string>
+								<string>08FB77AFFE84173DC02AAC07</string>
+								<string>32C88E010371C26100C91783</string>
+								<string>089C167CFE841241C02AAC07</string>
+								<string>089C1671FE841209C02AAC07</string>
+								<string>1058C7ACFEA557BF11CA2CBB</string>
 								<string>19C28FB8FE9D52D311CA2CBB</string>
 								<string>8D5B49B6048680CD000E48DA</string>
 								<string>1C37FBAC04509CD000000102</string>
@@ -274,12 +281,11 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>8</integer>
-									<integer>7</integer>
+									<integer>0</integer>
 								</array>
 							</array>
 							<key>PBXSmartGroupTreeModuleOutlineStateVisibleRectKey</key>
-							<string>{{0, 0}, {404, 664}}</string>
+							<string>{{0, 0}, {261, 664}}</string>
 						</dict>
 						<key>PBXTopSmartGroupGIDs</key>
 						<array/>
@@ -291,13 +297,13 @@
 					<key>GeometryConfiguration</key>
 					<dict>
 						<key>Frame</key>
-						<string>{{0, 0}, {421, 682}}</string>
+						<string>{{0, 0}, {278, 682}}</string>
 						<key>GroupTreeTableConfiguration</key>
 						<array>
 							<string>SCMStatusColumn</string>
 							<real>22</real>
 							<string>MainColumn</string>
-							<real>382</real>
+							<real>239</real>
 						</array>
 						<key>RubberWindowFrame</key>
 						<string>4 55 1276 723 0 0 1280 778 </string>
@@ -305,20 +311,18 @@
 					<key>Module</key>
 					<string>PBXSmartGroupTreeModule</string>
 					<key>Proportion</key>
-					<string>421pt</string>
+					<string>278pt</string>
 				</dict>
 				<dict>
 					<key>Dock</key>
 					<array>
 						<dict>
-							<key>BecomeActive</key>
-							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
 								<string>1CE0B20306471E060097A5F4</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>DaumBook.m</string>
+								<string>DaumBookControllerForPlugins.h</string>
 								<key>PBXSplitModuleInNavigatorKey</key>
 								<dict>
 									<key>Split0</key>
@@ -326,22 +330,22 @@
 										<key>PBXProjectModuleGUID</key>
 										<string>1CE0B20406471E060097A5F4</string>
 										<key>PBXProjectModuleLabel</key>
-										<string>DaumBook.m</string>
+										<string>DaumBookControllerForPlugins.h</string>
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>6C6817AE105F872A007F62A5</string>
+										<string>6C3293721077266A00CDA01C</string>
 										<key>history</key>
 										<array>
 											<string>6C59060B1057E62B0002BF1A</string>
 											<string>6C59065C1057E7C40002BF1A</string>
 											<string>6C6074411059EEDF00D877F6</string>
-											<string>6C6074791059F27200D877F6</string>
 											<string>6C82F5DC105A284F00F58E1F</string>
-											<string>6C82F5EA105A292D00F58E1F</string>
 											<string>6CE09FB9105A3667000E2115</string>
 											<string>6C681749105F78CF007F62A5</string>
-											<string>6C68176E105F816A007F62A5</string>
+											<string>6C32929E10770EC000CDA01C</string>
+											<string>6C3293531077255300CDA01C</string>
+											<string>6C3293551077255300CDA01C</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -353,14 +357,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 0}, {850, 370}}</string>
+								<string>{{0, 0}, {993, 350}}</string>
 								<key>RubberWindowFrame</key>
 								<string>4 55 1276 723 0 0 1280 778 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
 							<key>Proportion</key>
-							<string>370pt</string>
+							<string>350pt</string>
 						</dict>
 						<dict>
 							<key>ContentConfiguration</key>
@@ -373,18 +377,18 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 375}, {850, 307}}</string>
+								<string>{{0, 355}, {993, 327}}</string>
 								<key>RubberWindowFrame</key>
 								<string>4 55 1276 723 0 0 1280 778 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
 							<key>Proportion</key>
-							<string>307pt</string>
+							<string>327pt</string>
 						</dict>
 					</array>
 					<key>Proportion</key>
-					<string>850pt</string>
+					<string>993pt</string>
 				</dict>
 			</array>
 			<key>Name</key>
@@ -399,9 +403,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>6C6817AF105F872A007F62A5</string>
+				<string>6C3293731077266A00CDA01C</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>6C6817B0105F872A007F62A5</string>
+				<string>6C3293741077266A00CDA01C</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -539,8 +543,10 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
+		<string>6C3293761077266A00CDA01C</string>
+		<string>6C3293771077266A00CDA01C</string>
 		<string>6C71F4151057DE4D003B57F6</string>
-		<string>/Users/parksama/Desktop/DaumBookSearchPediaPlugin/daumbook.xcodeproj</string>
+		<string>/Users/parksama/Development/DaumBookSearchPediaPlugin/daumbook.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
 	<string>4 55 1276 723 0 0 1280 778 </string>
@@ -573,7 +579,7 @@
 								<key>Frame</key>
 								<string>{{0, 0}, {1171, 96}}</string>
 								<key>RubberWindowFrame</key>
-								<string>109 340 1171 378 0 0 1280 778 </string>
+								<string>77 304 1171 378 0 0 1280 778 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
@@ -597,7 +603,7 @@
 								<key>Frame</key>
 								<string>{{0, 101}, {1171, 236}}</string>
 								<key>RubberWindowFrame</key>
-								<string>109 340 1171 378 0 0 1280 778 </string>
+								<string>77 304 1171 378 0 0 1280 778 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXBuildResultsModule</string>
@@ -620,7 +626,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>6C71F4151057DE4D003B57F6</string>
-				<string>6C6817B1105F872A007F62A5</string>
+				<string>6C3293751077266A00CDA01C</string>
 				<string>1CD0528F0623707200166675</string>
 				<string>XCMainBuildResultsModuleGUID</string>
 			</array>
@@ -629,7 +635,7 @@
 			<key>WindowContentMinSize</key>
 			<string>486 300</string>
 			<key>WindowString</key>
-			<string>109 340 1171 378 0 0 1280 778 </string>
+			<string>77 304 1171 378 0 0 1280 778 </string>
 			<key>WindowToolGUID</key>
 			<string>6C71F4151057DE4D003B57F6</string>
 			<key>WindowToolIsVisible</key>
