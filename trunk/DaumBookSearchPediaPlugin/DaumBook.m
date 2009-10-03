@@ -34,7 +34,7 @@
 	NSString *encodedString = [searchString stringByAddingPercentEscapesUsingEncoding:NSUTF8StringEncoding];
 	queryString = [[NSMutableString alloc] initWithFormat:@"http://apis.daum.net/search/book?q=%@&result=20&apikey=DAUM_SEARCH_DEMO_APIKEY",encodedString ];
 
-	[self downloadWebPage:queryString];
+	[self downloadDataFromURL:queryString];
 }
 
 
@@ -62,10 +62,10 @@
 	NSURLRequest *theRequest = nil;
 	NSString *HTMLSource = nil;
 	
-	if ( number > pagenoOfPages*resultOfPage-1 ) { 
-		theRequest=[NSURLRequest requestWithURL:[NSURL URLWithString:[queryString stringByAppendingFormat:@"&pageno=%d",pagenoOfPages+1]] cachePolicy:NSURLRequestUseProtocolCachePolicy timeoutInterval:15.0];		
+	if ( number > pagenoOfPages*resultOfPage-1 ) {
+		theRequest = [NSURLRequest requestWithURL:[NSURL URLWithString:[queryString stringByAppendingFormat:@"&pageno=%d",pagenoOfPages+1]] cachePolicy:NSURLRequestUseProtocolCachePolicy timeoutInterval:15.0];
 	} else if ( pagenoOfPages-1 && number < (pagenoOfPages-1)*resultOfPage ) {
-		theRequest=[NSURLRequest requestWithURL:[NSURL URLWithString:[queryString stringByAppendingFormat:@"&pageno=%d",pagenoOfPages-1]] cachePolicy:NSURLRequestUseProtocolCachePolicy timeoutInterval:15.0];		
+		theRequest = [NSURLRequest requestWithURL:[NSURL URLWithString:[queryString stringByAppendingFormat:@"&pageno=%d",pagenoOfPages-1]] cachePolicy:NSURLRequestUseProtocolCachePolicy timeoutInterval:15.0];		
 	}
 	
 	if ( theRequest != nil ) {
@@ -85,13 +85,25 @@
 	if (title) {
 		[returnData setObject:[self cleanHTMLEncoding:title] forKey:@"title"];
 	}
-	
-	NSString *imageUrl = [self stringForPath:@"cover_l_url" ofNode:[resultsTitles objectAtIndex:currentItemIdx]];
-	NSString *largeUrl = [[imageUrl stringByReplacingOccurrencesOfString:@"medium" withString:@"large"] stringByReplacingOccurrencesOfString:@"/m" withString:@"/l"];
-	// NSString *xlargeUrl = [[imageUrl stringByReplacingOccurrencesOfString:@"medium" withString:@"xlarge"] stringByReplacingOccurrencesOfString:@"/m" withString:@"/x"];
 
-	if (largeUrl) {
-		[returnData setObject:largeUrl forKey:MKKeyEntryImageLocation];
+	NSString *imageUrl[3]; // ARRAY OF IMAGE URL STRING
+	int       imageIdx;
+	imageUrl[2] = [self stringForPath:@"cover_l_url" ofNode:[resultsTitles objectAtIndex:currentItemIdx]]; // DEFAULT IMAGE
+	imageUrl[1] = [[imageUrl[2] stringByReplacingOccurrencesOfString:@"medium" withString:@"large"] stringByReplacingOccurrencesOfString:@"/m" withString:@"/l"]; // LARGE IMAGE
+	imageUrl[0] = [[imageUrl[2] stringByReplacingOccurrencesOfString:@"medium" withString:@"xlarge"] stringByReplacingOccurrencesOfString:@"/m" withString:@"/x"]; // XLARGE IMAGE
+
+	for ( imageIdx = 0 ; imageIdx < 3 ; imageIdx++ ) { // 이미지가 존재하면 해당 이미지를 사용
+		theRequest = [NSURLRequest requestWithURL:[NSURL URLWithString:imageUrl[imageIdx]]];
+		if ( theRequest != nil ) {
+			receivedData = [[NSMutableData alloc] initWithData:[NSURLConnection sendSynchronousRequest:theRequest returningResponse:nil error:nil]];
+		}
+
+		if ( [receivedData length] > 1024 ) { // 해당 이미지가 존재하면(SIZE로 판단 : 1KB 이상)
+			[returnData setObject:imageUrl[imageIdx] forKey:MKKeyEntryImageLocation];
+			[receivedData release];
+			receivedData = nil;
+			break;
+		}
 	}
 	
 	NSString *description = [self stringForPath:@"description" ofNode:[resultsTitles objectAtIndex:currentItemIdx]];
@@ -130,8 +142,9 @@
 	}
 
 //	NSString *sale_yn = [self stringForPath:@"sale_yn" ofNode:[resultsTitles objectAtIndex:currentItemIdx]];
+//	id isSale = [sale_yn isEqualToString:@"Y"] ? 1 : 0;
 //	if (sale_yn) {
-//		[returnData setObject:sale_yn forKey:MKKeyBookOnSale];
+//		[returnData setValue:isSale forKey:MKKeyBookOnSale];
 //	}
 
 	NSString *placedAt= @"교보문고";
@@ -209,11 +222,7 @@
 		if (tempInt)
 			[cleanString replaceOccurrencesOfString:[NSString stringWithFormat:@"&#%d;", tempInt] withString:[NSString stringWithFormat:@"%c", tempInt]  options:NSLiteralSearch range:NSMakeRange(0, [cleanString length])];
 	}
-	
-	if (cleanString)
-		return cleanString;
-	else 
-		return stringToClean;
+	return cleanString ? cleanString : stringToClean;
 }
 
 - (NSString *)stringForPath:(NSString *)xp ofNode:(NSXMLNode *)n {
@@ -260,14 +269,9 @@
 	[super dealloc];
 }
 
-
-
-
 #pragma mark Connection Delegation
-- (void)downloadWebPage:(NSString *)aWebPage {
-		
-	//Create request for http query
-	NSURLRequest *httpRequest = [NSURLRequest requestWithURL:[NSURL URLWithString:aWebPage] cachePolicy:NSURLRequestUseProtocolCachePolicy timeoutInterval:30.0];
+- (void)downloadDataFromURL:(NSString *)urlString { 	//Create request for http query
+	NSURLRequest *httpRequest = [NSURLRequest requestWithURL:[NSURL URLWithString:urlString] cachePolicy:NSURLRequestUseProtocolCachePolicy timeoutInterval:30.0];
 	
 	theConnection = [[NSURLConnection alloc] initWithRequest:httpRequest delegate:self];
 	
@@ -275,30 +279,26 @@
 		receivedData = [[NSMutableData data] retain];
 	} else {
 		[delegate searchReturnedNumberOfResults:0 sender:self];
-	}	
+	}
 }
-
 
 /* If there are any redirects this notification is sent and we reset the data to 0  */
 - (void)connection:(NSURLConnection *)connection didReceiveResponse:(NSURLResponse *)response
 {
-	//redirects and such
-    [receivedData setLength:0];
+    [receivedData setLength:0]; //redirects and such
 }
 
 
 
 - (void)connection:(NSURLConnection *)connection didReceiveData:(NSData *)data
 {
-    // append the new data to the receivedData
-    [receivedData appendData:data];
+    [receivedData appendData:data]; // append the new data to the receivedData
 }
 
 
 - (void)connection:(NSURLConnection *)connection didFailWithError:(NSError *)error
 {
-    // release the connection, and the data object
-    [connection release];
+    [connection release]; // release the connection, and the data object
     [receivedData release];
 	receivedData = nil;
 	
@@ -313,26 +313,24 @@
 
 - (void)connectionDidFinishLoading:(NSURLConnection *)connection
 {
-	//Turn recievedData into a  string try NSUTF encoding if that fails use Latin
-	NSString *HTMLSource = [[[NSString alloc] initWithData:receivedData encoding:NSUTF8StringEncoding] autorelease];	
+	NSString *HTMLSource = nil;
+	receivedDataLength = [receivedData length]; // 접속당 받은 Data size
 	
-	if (HTMLSource == nil) {
-		HTMLSource = [[[NSString alloc] initWithData:receivedData encoding:NSISOLatin1StringEncoding] autorelease];
+	NSLog(@"Succeeded! Received %d bytes of data", receivedDataLength);
+	
+	if ( receivedDataLength > 0 ) {
+		HTMLSource = [[[NSString alloc] initWithData:receivedData encoding:NSUTF8StringEncoding] autorelease];
 	}
-	
-    // release the connection, and the data object
-    [connection release];
+
+    [connection release]; // release the connection, and the data object
     [receivedData release];
 	receivedData = nil;
 	
-	//All encodings failed return no results otherwise parse
-	if (HTMLSource == nil) {
+	if (HTMLSource == nil) { // All encodings failed return no results otherwise parse
 		[delegate searchReturnedNumberOfResults:0 sender:self];
 	} else {
 		[self downloadComplete:HTMLSource];
 	}
 	
 }
-
-
 @end
