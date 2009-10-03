@@ -7,33 +7,33 @@
 	};
 	052B06080C5373A500BBC1E0 /* DaumBookControllerForPlugins.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {817, 572}}";
-			sepNavSelRange = "{672, 13}";
-			sepNavVisRange = "{175, 1042}";
+			sepNavIntBoundsRect = "{{0, 0}, {932, 559}}";
+			sepNavSelRange = "{481, 0}";
+			sepNavVisRange = "{0, 595}";
 			sepNavWindowFrame = "{{208, 0}, {1072, 778}}";
 		};
 	};
 	05BA0F88065F637C0064BD4D /* DaumBook.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {789, 381}}";
-			sepNavSelRange = "{184, 0}";
-			sepNavVisRange = "{0, 470}";
-			sepNavWindowFrame = "{{19, 0}, {1072, 778}}";
+			sepNavIntBoundsRect = "{{0, 0}, {789, 364}}";
+			sepNavSelRange = "{402, 19}";
+			sepNavVisRange = "{18, 482}";
+			sepNavWindowFrame = "{{50, 0}, {1212, 778}}";
 		};
 	};
 	05BA0F89065F637C0064BD4D /* DaumBook.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1104, 4498}}";
-			sepNavSelRange = "{1194, 0}";
-			sepNavVisRange = "{508, 982}";
-			sepNavWindowFrame = "{{50, 0}, {750, 778}}";
+			sepNavIntBoundsRect = "{{0, 0}, {1524, 3948}}";
+			sepNavSelRange = "{5556, 243}";
+			sepNavVisRange = "{5200, 1922}";
+			sepNavWindowFrame = "{{22, -2}, {1226, 778}}";
 		};
 	};
 	05D646CA0B1DE3BC00CE8FFA /* Constants.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {789, 2054}}";
-			sepNavSelRange = "{4316, 0}";
-			sepNavVisRange = "{3953, 1059}";
+			sepNavIntBoundsRect = "{{0, 0}, {1013, 2041}}";
+			sepNavSelRange = "{2664, 0}";
+			sepNavVisRange = "{2485, 1625}";
 			sepNavWindowFrame = "{{19, 0}, {1072, 778}}";
 		};
 	};
@@ -66,7 +66,7 @@
 				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
 				PBXFileTableDataSourceColumnWidthsKey = (
 					20,
-					611,
+					754,
 					20,
 					48,
 					43,
@@ -145,28 +145,20 @@
 					PBXFileDataSource_Warnings_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 274695958;
-			PBXWorkspaceStateSaveDate = 274695958;
+			PBXPerProjectTemplateStateSaveDate = 276243918;
+			PBXWorkspaceStateSaveDate = 276243918;
 		};
 		perUserProjectItems = {
+			6C32929E10770EC000CDA01C = 6C32929E10770EC000CDA01C /* PBXTextBookmark */;
+			6C3293531077255300CDA01C = 6C3293531077255300CDA01C /* PBXTextBookmark */;
+			6C3293541077255300CDA01C = 6C3293541077255300CDA01C /* PBXTextBookmark */;
+			6C3293551077255300CDA01C = 6C3293551077255300CDA01C /* PBXTextBookmark */;
+			6C3293721077266A00CDA01C /* PBXTextBookmark */ = 6C3293721077266A00CDA01C /* PBXTextBookmark */;
 			6C59060B1057E62B0002BF1A = 6C59060B1057E62B0002BF1A /* PBXTextBookmark */;
 			6C59065C1057E7C40002BF1A = 6C59065C1057E7C40002BF1A /* PBXTextBookmark */;
 			6C6074411059EEDF00D877F6 = 6C6074411059EEDF00D877F6 /* PBXTextBookmark */;
-			6C6074791059F27200D877F6 = 6C6074791059F27200D877F6 /* PBXTextBookmark */;
 			6C681749105F78CF007F62A5 = 6C681749105F78CF007F62A5 /* PlistBookmark */;
-			6C68174A105F78CF007F62A5 = 6C68174A105F78CF007F62A5 /* PBXTextBookmark */;
-			6C68174D105F78CF007F62A5 = 6C68174D105F78CF007F62A5 /* PBXTextBookmark */;
-			6C681766105F8140007F62A5 = 6C681766105F8140007F62A5 /* PBXTextBookmark */;
-			6C681767105F8140007F62A5 = 6C681767105F8140007F62A5 /* PBXTextBookmark */;
-			6C68176E105F816A007F62A5 = 6C68176E105F816A007F62A5 /* PBXTextBookmark */;
-			6C6817AE105F872A007F62A5 /* PBXTextBookmark */ = 6C6817AE105F872A007F62A5 /* PBXTextBookmark */;
-			6C6D9452105A379E00A07E9A = 6C6D9452105A379E00A07E9A /* PlistBookmark */;
 			6C82F5DC105A284F00F58E1F = 6C82F5DC105A284F00F58E1F /* PBXTextBookmark */;
-			6C82F5EA105A292D00F58E1F = 6C82F5EA105A292D00F58E1F /* PBXTextBookmark */;
-			6C82F647105A33E000F58E1F = 6C82F647105A33E000F58E1F /* PBXTextBookmark */;
-			6CB32B64105B63E5009DC091 = 6CB32B64105B63E5009DC091 /* PBXBookmark */;
-			6CB32B70105B6F39009DC091 = 6CB32B70105B6F39009DC091 /* PlistBookmark */;
-			6CB32B71105B6F39009DC091 = 6CB32B71105B6F39009DC091 /* PBXTextBookmark */;
 			6CE09FB9105A3667000E2115 = 6CE09FB9105A3667000E2115 /* PBXBookmark */;
 		};
 		sourceControlManager = 6C71F40B1057DD66003B57F6 /* Source Control */;
@@ -183,11 +175,61 @@
 	};
 	32DBCF630370AF2F00C91783 /* PluginExample_Prefix.pch */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {789, 408}}";
+			sepNavIntBoundsRect = "{{0, 0}, {1013, 650}}";
 			sepNavSelRange = "{0, 0}";
 			sepNavVisRange = "{0, 190}";
 			sepNavWindowFrame = "{{19, 0}, {1072, 778}}";
 		};
+	};
+	6C32929E10770EC000CDA01C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 05BA0F88065F637C0064BD4D /* DaumBook.h */;
+		name = "DaumBook.h: 24";
+		rLen = 19;
+		rLoc = 402;
+		rType = 0;
+		vrLen = 482;
+		vrLoc = 18;
+	};
+	6C3293531077255300CDA01C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 05BA0F89065F637C0064BD4D /* DaumBook.m */;
+		name = "DaumBook.m: 98";
+		rLen = 0;
+		rLoc = 4017;
+		rType = 0;
+		vrLen = 1288;
+		vrLoc = 3335;
+	};
+	6C3293541077255300CDA01C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 052B06080C5373A500BBC1E0 /* DaumBookControllerForPlugins.h */;
+		name = "DaumBookControllerForPlugins.h: 27";
+		rLen = 13;
+		rLoc = 672;
+		rType = 0;
+		vrLen = 924;
+		vrLoc = 293;
+	};
+	6C3293551077255300CDA01C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 052B06080C5373A500BBC1E0 /* DaumBookControllerForPlugins.h */;
+		name = "DaumBookControllerForPlugins.h: 27";
+		rLen = 13;
+		rLoc = 672;
+		rType = 0;
+		vrLen = 924;
+		vrLoc = 293;
+	};
+	6C3293721077266A00CDA01C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 052B06080C5373A500BBC1E0 /* DaumBookControllerForPlugins.h */;
+		name = "DaumBookControllerForPlugins.h: 23";
+		rLen = 0;
+		rLoc = 481;
+		rType = 0;
+		vrLen = 595;
+		vrLoc = 0;
 	};
 	6C59060B1057E62B0002BF1A /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
@@ -243,16 +285,6 @@
 		vrLen = 145;
 		vrLoc = 0;
 	};
-	6C6074791059F27200D877F6 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 052B06080C5373A500BBC1E0 /* DaumBookControllerForPlugins.h */;
-		name = "DaumBookControllerForPlugins.h: 27";
-		rLen = 13;
-		rLoc = 672;
-		rType = 0;
-		vrLen = 1042;
-		vrLoc = 175;
-	};
 	6C681749105F78CF007F62A5 /* PlistBookmark */ = {
 		isa = PlistBookmark;
 		fRef = 8D5B49B7048680CD000E48DA /* Info.plist */;
@@ -260,78 +292,6 @@
 		isK = 0;
 		kPath = (
 			NSHumanReadableCopyright,
-		);
-		name = /Users/parksama/Downloads/DaumBookSearchPediaPlugin/Info.plist;
-		rLen = 0;
-		rLoc = 9223372036854775808;
-	};
-	6C68174A105F78CF007F62A5 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 05BA0F89065F637C0064BD4D /* DaumBook.m */;
-		name = "DaumBook.m: 22";
-		rLen = 0;
-		rLoc = 447;
-		rType = 0;
-		vrLen = 1011;
-		vrLoc = 4636;
-	};
-	6C68174D105F78CF007F62A5 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 05BA0F89065F637C0064BD4D /* DaumBook.m */;
-		name = "DaumBook.m: 27";
-		rLen = 0;
-		rLoc = 684;
-		rType = 0;
-		vrLen = 1677;
-		vrLoc = 299;
-	};
-	6C681766105F8140007F62A5 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 05BA0F89065F637C0064BD4D /* DaumBook.m */;
-		name = "DaumBook.m: 136";
-		rLen = 0;
-		rLoc = 5426;
-		rType = 0;
-		vrLen = 1268;
-		vrLoc = 4636;
-	};
-	6C681767105F8140007F62A5 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 05BA0F89065F637C0064BD4D /* DaumBook.m */;
-		name = "DaumBook.m: 136";
-		rLen = 0;
-		rLoc = 5169;
-		rType = 0;
-		vrLen = 1008;
-		vrLoc = 4639;
-	};
-	6C68176E105F816A007F62A5 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 05BA0F89065F637C0064BD4D /* DaumBook.m */;
-		name = "DaumBook.m: 136";
-		rLen = 0;
-		rLoc = 5169;
-		rType = 0;
-		vrLen = 1008;
-		vrLoc = 4639;
-	};
-	6C6817AE105F872A007F62A5 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 05BA0F89065F637C0064BD4D /* DaumBook.m */;
-		name = "DaumBook.m: 35";
-		rLen = 0;
-		rLoc = 1194;
-		rType = 0;
-		vrLen = 982;
-		vrLoc = 508;
-	};
-	6C6D9452105A379E00A07E9A /* PlistBookmark */ = {
-		isa = PlistBookmark;
-		fRef = 8D5B49B7048680CD000E48DA /* Info.plist */;
-		fallbackIsa = PBXBookmark;
-		isK = 0;
-		kPath = (
-			PluginMenuName,
 		);
 		name = /Users/parksama/Downloads/DaumBookSearchPediaPlugin/Info.plist;
 		rLen = 0;
@@ -356,56 +316,10 @@
 		fRef = 05D646CA0B1DE3BC00CE8FFA /* Constants.h */;
 		name = "Constants.h: 134";
 		rLen = 0;
-		rLoc = 4316;
+		rLoc = 4315;
 		rType = 0;
 		vrLen = 1059;
 		vrLoc = 3953;
-	};
-	6C82F5EA105A292D00F58E1F /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 05BA0F88065F637C0064BD4D /* DaumBook.h */;
-		name = "DaumBook.h: 11";
-		rLen = 0;
-		rLoc = 184;
-		rType = 0;
-		vrLen = 470;
-		vrLoc = 0;
-	};
-	6C82F647105A33E000F58E1F /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 05BA0F89065F637C0064BD4D /* DaumBook.m */;
-		name = "DaumBook.m: 22";
-		rLen = 0;
-		rLoc = 447;
-		rType = 0;
-		vrLen = 1151;
-		vrLoc = 62;
-	};
-	6CB32B64105B63E5009DC091 /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = 05BA0F89065F637C0064BD4D /* DaumBook.m */;
-	};
-	6CB32B70105B6F39009DC091 /* PlistBookmark */ = {
-		isa = PlistBookmark;
-		fRef = 8D5B49B7048680CD000E48DA /* Info.plist */;
-		fallbackIsa = PBXBookmark;
-		isK = 0;
-		kPath = (
-			NSPrincipalClass,
-		);
-		name = /Users/parksama/Downloads/DaumBookSearchPediaPlugin/Info.plist;
-		rLen = 0;
-		rLoc = 9223372036854775808;
-	};
-	6CB32B71105B6F39009DC091 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 05BA0F89065F637C0064BD4D /* DaumBook.m */;
-		name = "DaumBook.m: 27";
-		rLen = 0;
-		rLoc = 684;
-		rType = 0;
-		vrLen = 1881;
-		vrLoc = 299;
 	};
 	6CE09FB9105A3667000E2115 /* PBXBookmark */ = {
 		isa = PBXBookmark;
