@@ -13,6 +13,7 @@
 	int pagenoOfPages;
 	int resultOfPage;
 	int totalCountOfItems;
+	int receivedDataLength;
 	
 	id delegate;
 	NSMutableData *receivedData;
@@ -20,7 +21,7 @@
 }
 
 //helper Methods
-- (void)downloadWebPage:(NSString *)aWebPage;
+- (void)downloadDataFromURL:(NSString *)urlString;
 - (void)downloadComplete:(NSString *)HTMLSource;
 
 @end
